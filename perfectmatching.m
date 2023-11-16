@@ -1,3 +1,17 @@
+% 
+% Program Overview:
+% This program accepts frequency values input by the user,which then serves as the basis for acoustic simulation,
+% yielding a perfectly matched simulation result.Simultaneously,t
+% he program provides corresponding parameter values for capacitance,inductance,and resistance,offering concrete references for acoustic design.Program Functions
+% Frequency Value Input:
+% Users can input specific frequency values,which form the foundation for acoustic simulations.Frequency describes the speed of sound wave vibrations,
+% with different frequencies leading to varying acoustic effects.By inputting specific frequency values,users can simulate specific acoustic effects.Perfectly Matched Simulation Results
+% Based on the user-input frequency values,the program performs acoustic simulations,generating perfectly matched simulation results.
+% These results represent the propagation and reaction of sound waves at the given frequency in real-world situations.Parameter Value Output
+% In addition to simulation results,the program also provides corresponding parameter values for capacitance,inductance,and resistance.
+% These three factors significantly influence sound wave propagation.By adjusting these parameter values,
+% one can optimize acoustic effects.The parameter values provided by the program serve as references for acoustic design.
+
 close all 
 clear all
 clc
